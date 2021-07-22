@@ -1,0 +1,1 @@
+from rt.player import ExamplePlayer as Player

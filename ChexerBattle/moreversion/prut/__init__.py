@@ -1,0 +1,1 @@
+from prut.player import ExamplePlayer as Player

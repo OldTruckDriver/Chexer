@@ -1,0 +1,1 @@
+from ndcpt.player import ExamplePlayer as Player

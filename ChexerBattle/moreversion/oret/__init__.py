@@ -1,0 +1,1 @@
+from oret.player import ExamplePlayer as Player

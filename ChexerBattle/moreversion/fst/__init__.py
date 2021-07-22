@@ -1,0 +1,1 @@
+from fst.player import ExamplePlayer as Player

@@ -1,0 +1,1 @@
+from gpt.player import ExamplePlayer as Player

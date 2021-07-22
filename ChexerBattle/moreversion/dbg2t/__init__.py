@@ -1,0 +1,1 @@
+from dbg2t.player import ExamplePlayer as Player

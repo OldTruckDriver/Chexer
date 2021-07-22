@@ -1,0 +1,1 @@
+from ddt.player import ExamplePlayer as Player
